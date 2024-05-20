@@ -1,0 +1,152 @@
+*{
+    font-family:sans-serif;
+}
+#navbar{
+    /* border: 1px solid black; */
+    height: 80px;
+    width: 100%;
+}
+#logo{
+    /* border: 1px solid blue; */
+    display: inline-block;
+    height: 70px;
+    width: 100px;
+    margin-left: 80px;
+    margin-right: 130px;
+}
+#b1{
+    /* border: 1px solid black; */
+    display: inline-block;
+}
+li{
+    /* border: 1px solid green; */
+    display: inline-block;
+    margin-right: 20px;
+}
+i{
+    margin-left: 5px;
+}
+.icon{
+    /* border: 1px solid magenta; */
+    margin-right: 15px;
+}
+/* -------------------nav end--------------------- */
+.p1{
+    text-align: center;
+    background-color: rgb(225,27,35);
+    font-size: 24px;
+    height: 46px;
+}
+.p11{
+    padding: 8px;
+}
+.p2{
+    text-align: center;
+    font-size: 24px;
+}
+#bg1{
+    width: 100%;
+    margin-top: 30px;
+}
+/* -------------first work done------------------ */
+/* --------------------form---------------------- */
+#formBox{
+    border: 1px solid black;
+    width: 40%;
+    margin: auto;
+    margin-top: 100px;
+}
+#h4p1{
+    text-align: center;
+    color: rgb(17,122,122);
+}
+#btn1{
+    border: 1px solid black;
+    width: 80%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+.log{
+    width: 49.5%;
+    padding: 10px 20px;
+}
+#formBox2{
+    border: 1px solid black;
+    width: 80%;
+    margin: auto;
+    background-color: rgb(241,241,242);
+}
+.social{
+    border: 1px solid black;
+    margin-left: 40px;
+    width: 180px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.sfb{
+    width: 30px;
+    height: 30px;
+    margin-left: -50px;
+}
+.sp1{
+    margin-left: 30px;
+    font-weight :bold;
+}
+.name{
+    /* border: 1px solid green; */
+    display: inline-block;
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+#fname, #lname{
+    border: 1px solid black;
+    padding: 10px 15px;
+    border-radius: 10px;
+}
+#email, #pass1, #pass2, #dob{
+    margin-left: 25px;
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 390px;
+    border-radius: 10px;
+}
+#phone{
+    margin-left: 25px;
+    margin-bottom: 20px;
+    padding: 10px;
+    width: 390px;
+    border-radius: 10px;
+}
+#gender{
+    margin-left: 30px;
+}
+/* ----------------------form ended--------------------------- */
+#products{
+    border: 1px solid black;
+    margin: 50px 0px;
+}
+.box3{
+    border: 1px solid green;
+    display: inline-block;
+    width: 27%;
+    margin-left: 40px;
+    height: 400px;
+}
+.box4{
+    border: 1px solid magenta;
+    display: inline-block;
+    width: 66%;
+    margin-left: 20px;
+    height: 400px;
+}
+.cards{
+    border: 1px solid black;
+    display: inline-block;
+    width: 22.5%;
+    margin-left: 15px;
+    height: 100%;
+}
+.images{
+    height: 80%;
+    width: 100%;
+}
